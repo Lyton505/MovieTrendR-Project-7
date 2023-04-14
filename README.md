@@ -38,7 +38,11 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+
+https://user-images.githubusercontent.com/65817176/232132498-4fcc9478-be7f-45bd-9e3e-14eae052c50b.mp4
+
+
+
 
 GIF created with **Scrcpy on PopOS**
 
