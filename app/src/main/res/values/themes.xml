@@ -13,6 +13,12 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
         <item name="android:textColor">@android:color/black</item>
+        <item name="android:fontFamily">@font/averia_libre_italic</item>
 
+    </style>
+    <style name="TextAppearance.RadioArea" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#9ba1ab</item>
+        <item name="android:padding">8dp</item>
     </style>
 </resources>
